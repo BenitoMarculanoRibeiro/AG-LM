@@ -9,10 +9,7 @@
 </head>
 
 <body>
-
-    <div class="wrapper">Conteúdo</div>
+jsh\
 </body>
-<script src="/dctb-node-crawler/crawler.js"></script>
-
 
 </html>
